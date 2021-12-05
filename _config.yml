@@ -1,0 +1,10 @@
+# Site settings
+title: shreyas
+email:
+description: portfolio Site
+baseurl:
+url:
+github_username:  shreyasp27
+
+# Build settings
+permalink: pretty
